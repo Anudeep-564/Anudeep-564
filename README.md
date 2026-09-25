@@ -1,4 +1,4 @@
-# Hi 👋 I'm [Anudeep]
+# Hi 👋 I'm Anudeep
 
 🎓 I am a 1st Year student at VIT-AP University.  
 💻 Currently learning **Java** and strengthening my programming fundamentals.
